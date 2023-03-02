@@ -184,7 +184,7 @@ uint8_t mLastFreq;
 // config
 uint32_t ts  = 0x6384DF00; // timestamp
 uint32_t dtu = 0x83266790;
-uint32_t wr  = 0x80423810;
+uint32_t wr  = 0x80721598;
 // end config
 
 
